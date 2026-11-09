@@ -1,0 +1,12 @@
+ms-ceintl.vscode-language-pack-fr
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-python-envs
+redhat.java
+redhat.vscode-xml
+vscjava.vscode-gradle
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
